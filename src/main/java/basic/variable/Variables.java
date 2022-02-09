@@ -9,7 +9,7 @@ import java.lang.reflect.Array;
 //class Tutorial noun
 //function verb
 //variable noun
-public class Variable {
+public class Variables {
     //Static Variable
     static String staticValue = "Static Value";
     //Instance Variable
